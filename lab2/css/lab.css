@@ -1,0 +1,20 @@
+body {
+	background-color: peachpuff;
+	border: solid 3px darkkhaki;
+}
+div#ash {
+       font-family: sans-serif;
+       color: darkolivegreen;
+       border: dashed 2px darkseagreen;
+       margin: 5px;
+}
+div#kayla {
+	font-family: sans-serif;
+	color: palevioletred;
+	border: dotted 2px mediumvioletred;
+	margin: 5px;
+}
+h1 {
+	font-family: sans-serif;
+	color: saddlebrown;
+}
