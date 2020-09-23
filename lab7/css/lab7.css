@@ -1,0 +1,15 @@
+body {
+	color: thistle;
+}
+h1, h2, h3 {
+	color: indigo;
+	font-family: 'Smythe';
+}
+p {
+	font-family: 'Smythe';
+	color: gold;
+}
+header {
+	font-family: 'Smythe';
+	color: indigo;
+}
