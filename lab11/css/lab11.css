@@ -1,0 +1,11 @@
+body {
+	background-image: url("../images/starsbackground.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: thistle;
+	font-family: 'Playfair Display';
+	border: 2px solid rebeccapurple;
+	color: white;
+
+}
