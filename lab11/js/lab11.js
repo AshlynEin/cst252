@@ -1,11 +1,10 @@
 //Author: Ashlyn Einhell
 // Created 6 October 
-//Credit to Wes Modes Screenshot of Javascript Code and Wes Modes Lab 11 Conditionals code, I editted to change to Warrior Cats.
+//Credit to Wes Modes Screenshot of Javascript Code 
 
 
 //Return ThunderClan, WindClan, RiverClan, ShadowClan
 //depends on length mod 4
-
 
 
 function sortingCat(str) {
