@@ -28,3 +28,6 @@ button.addEventListener("click", function() {
 	console.log("nameSorted=", nameSorted);
 	heading.innerHTML = "Hello, " + nameSorted;
 })
+
+//debugger for Lab 13
+debugger;

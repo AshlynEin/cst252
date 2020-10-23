@@ -51,3 +51,6 @@ function main () {
 	src.appendChild(img);
 
 }
+
+//debugger for Lab 13
+debugger;

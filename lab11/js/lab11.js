@@ -31,3 +31,6 @@ myButton.addEventListener("click", function() {
 	newText = "<p> It looks like you're a member of " + clan +"</p>";
 	document.getElementById("output").innerHTML = newText;
 })
+
+//debugger for Lab 13
+debugger;

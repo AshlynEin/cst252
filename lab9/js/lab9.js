@@ -23,3 +23,6 @@ function main() {
 //CSS Stylings
 document.getElementById("output2").style.boxShadow=" 10px 20px 30px darkorange"
 document.getElementById("output").style.color="darkmagenta"
+
+//debugger for Lab 13
+debugger;

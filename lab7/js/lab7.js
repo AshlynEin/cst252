@@ -18,3 +18,6 @@ function sortUserName () {
 // output
 document.writeln("Take your new title, and fight for glory: ",
 	sortUserName(), "</br>");
+
+//debugger for Lab 13 test
+debugger;

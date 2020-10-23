@@ -20,3 +20,5 @@
  document.writeln( "Year:" + year + "<br>");
  document.writeln( "Age:" + age + "years<br>");
  
+//debugger for Lab 13
+debugger;
