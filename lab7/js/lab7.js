@@ -15,9 +15,9 @@ function sortUserName () {
 	console.log("nameSorted =", nameSorted);
 	return nameSorted;
 }
+//debugger lab 13 test
+debugger;
 // output
 document.writeln("Take your new title, and fight for glory: ",
 	sortUserName(), "</br>");
 
-//debugger for Lab 13 test
-debugger;
