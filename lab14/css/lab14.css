@@ -1,0 +1,13 @@
+body {
+	background-color: mistyrose;
+}
+
+h1 , h2, h3 {
+	font-family: "Poppins";
+	color: hotpink;
+}
+
+p {
+	font-family: "Nunito";
+	color: mediumvioletred;
+}
