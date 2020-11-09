@@ -1,0 +1,27 @@
+body {
+	background-color: peachpuff;
+	border: 2px solid black;
+}
+.col p {
+	color: darkkhaki;
+	font-family: 'Xanh Mono';
+	border: 2px solid red
+
+}
+.col {
+	color: white;
+    border: solid white 1px;
+    padding: 10px 20px 10px 20px;
+    margin: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin-top: 17px;
+}
+
+#summaries {
+	background-color: peachpuff;
+	border: 2px solid blue;
+}
+ .row {
+ 	background-color: peachpuff;
+ 	border: 2px solid green;
+ }
