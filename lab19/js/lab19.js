@@ -1,3 +1,5 @@
+//Credit to Wes Modes for this whole code cause it is literally 12:30am and the well has run dry of f**ks to give
+
 endpoint="https://api.whatdoestrumpthink.com/api/v1/quotes/random"
 
 // add event listener 
